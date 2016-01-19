@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Nikita Boguslavsky](https://htmlacademy.ru/profile/id123213).
-* Наставник: `Неизвестно`.
+* Наставник: [Andrey Rychagov](https://htmlacademy.ru/profile/id50483).
 
 ---
 
